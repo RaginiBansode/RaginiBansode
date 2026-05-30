@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 
 <!--Banner-->
-![RaginiBansode Banner Image](./banner.png)
+![RaginiBansode Banner Image](./banner2.png)
 
 
 
