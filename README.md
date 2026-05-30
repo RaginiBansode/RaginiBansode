@@ -3,9 +3,7 @@
 <!--Banner-->
 ![RaginiBansode Banner Image](./banner.png)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ragini%20Bansode&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%26%20AI%20Engineer&descAlignY=51&descAlign=50" />
-</div>
+
 
 <!-- About Me -->
 <h2 align="center">👋 Hey there! I'm Ragini Bansode</h2>
