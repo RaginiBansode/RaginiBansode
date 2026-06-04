@@ -139,7 +139,7 @@
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:ssartale6@gmail.com" target="_blank">
+  <a href="mailto:bansoderagini30@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/ragini-bansode-95b917372/" target="_blank">
